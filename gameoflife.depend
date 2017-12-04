@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512415143 source:/home/kyatt/Pulpit/programy/gameoflife/komorka.cpp
+	"komorka.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1512409005 /home/kyatt/Pulpit/programy/gameoflife/komorka.h
+	<vector>
+
+1512415185 source:/home/kyatt/Pulpit/programy/gameoflife/main.cpp
+	<iostream>
+	"komorka.h"
+	<unistd.h>
+	<cstdlib>
+	<cstdio>
+
